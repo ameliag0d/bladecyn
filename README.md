@@ -38,3 +38,7 @@ Currently BUSY!!! Requests don't hurt, though.
 
 "Found an SQLite injection in my server when I don't even use SQLite... truly extraordinary"
 - **EldoDebug** (CEO of Roleplay @ Soar Client)
+
+"Gave me 7 pizzas since we met, gotta be one of my favorite friends"
+- **Nitrog0d** (CEO of MelonLoader)
+
